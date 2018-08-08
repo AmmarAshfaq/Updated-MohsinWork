@@ -1,0 +1,32 @@
+#SignInH1{
+    font-size: 75px;
+    text-align: center;
+    margin: 150px 0px 50px 0px;
+    color: rgb(138, 219, 16)
+}
+
+
+
+.input {
+    width: 250px;
+    height: 30px;
+}
+
+label {
+    color: black
+}
+ .SignIn1 {
+    
+    border: 1px solid rgb(138, 219, 16);
+    padding: 10px 150px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 5px
+    }
+.SignIn1:hover {
+        background-color: rgb(129, 206, 15);
+        color: white
+    } 
+
+
+    

@@ -1,0 +1,27 @@
+.jobHead {
+    text-align: center;
+    text-decoration: underline;
+    width: 600px;
+    margin: 30px auto;
+    padding: 6px 0px;
+    border-radius: 5px   
+}
+
+.jobButtons {
+    text-decoration: none;
+    color: white;
+}
+.jobButtons:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.jobCard {
+    width: 600px;
+    margin: 20px auto 20px;
+
+    padding: 20px 0px 20px 0px;
+    border:1px solid #17a2b8;
+    background-color: #17a2b8;
+    border-radius: 5px; 
+}
